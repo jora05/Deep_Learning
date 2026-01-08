@@ -1,0 +1,12 @@
+{
+  "model": "google/flan-t5-base",
+  "n_samples": 200,
+  "baseline_accuracy": 0.385,
+  "cot_accuracy": 0.515,
+  "categories": {
+    "Flip-to-correct": 38,
+    "Flip-to-incorrect": 12,
+    "Correct-Correct": 65,
+    "Incorrect-Incorrect": 85
+  }
+}
